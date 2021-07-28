@@ -21,9 +21,9 @@ So far this program will only provide you the assets mentions that appear on the
 3. Install psaw   - pip install psaw
 5. Install Alpaca - pip install alpaca-trade-api
 5. Get your Alpaca API credentials 
-   a. Sign up and Log in to https://alpaca.markets/
-   b. Go to paper trading api
-   c. Generate New Keys
+   - Sign up and Log in to https://alpaca.markets/
+   - Go to paper trading api
+   - Generate New Keys
 
 
 
