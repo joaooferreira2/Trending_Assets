@@ -16,7 +16,14 @@ So far this program will only provide you the assets mentions that appear on the
 
 ## Requirements
 
-1. Install pandas 
+1. Install python - https://www.python.org/downloads/
+2. Install pandas - pip install pandas
+3. Install psaw   - pip install psaw
+5. Install Alpaca - pip install alpaca-trade-api
+5. Get your Alpaca API credentials 
+  - Sign up and Log in to https://alpaca.markets/
+  - Go to paper trading api
+  - Generate New Keys
 
-```pip install pandas```
+
 
