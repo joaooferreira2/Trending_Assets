@@ -1,4 +1,4 @@
-#About Trending_Assets 
+# About Trending_Assets 
 
 After the GameStop frenzy, a lot of people have been wondering what stocks are trending on Reddit. If you are one of these people, this program might help you get some nice information on what stocks and other assets are popping from the famous subreddit 'WallStreetBets'.
 
