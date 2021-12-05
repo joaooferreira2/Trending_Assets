@@ -6,7 +6,7 @@ import alpaca_trade_api as tradeapi
 import datetime as dt
 from psaw import PushshiftAPI
 
-
+   
 
 def get_assets():
     # Instantiate the Alpaca API to gather Assets Data
